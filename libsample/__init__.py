@@ -1,3 +1,3 @@
 # -*- coding:utf-8 -*-
-from libsample.libsample import *
+from .test import *
 
